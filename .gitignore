@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+# written by `herdr-app check`
+mods/*/gpui-kit.d.ts
+mods/*/jsconfig.json
